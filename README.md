@@ -1,2 +1,2 @@
 # Movie-Recommendation
-By  innomatics
+By  innomatics company
